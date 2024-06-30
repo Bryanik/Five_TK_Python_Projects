@@ -144,7 +144,3 @@ Remaining budget: 900
 
 Exiting Budget App. Goodbye!
 ```
-
-## License
-
-This project is licensed under the MIT License.
